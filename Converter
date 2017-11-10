@@ -1,0 +1,3 @@
+#Roman numberal converter
+def romans:
+  nums = {"I":1, "V":5, "X":10}
